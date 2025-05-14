@@ -1,5 +1,29 @@
-# Olá, me chamo Nicolas Lobo 🙋🏻‍♂️ 
-## Sou estudante de engenharia de sofwtare na PUCPR, sou apaixonado por programação, sempre em busca de novos aprendizados e melhorar minhas habilidades! Atualmente estagiando na Esteio Engenharia. Fique a vontade para observar meu perfil, e caso queira entrar em contato comigo eu estou disponível! (Algum dia eu ainda termino e deixo meu readme bemmmmm bonito)
+# Olá, me chamo Nicolas Lobo 🙋🏻‍♂️
+
+## Sou estudante de Engenharia de Software na PUCPR, com grande entusiasmo por desenvolvimento web e tecnologias modernas. Atualmente sou estagiário na Esteio Engenharia, onde coloco em prática meus conhecimentos e busco constante evolução como desenvolvedor. Fique à vontade para observar meu perfil, e caso queira entrar em contato comigo eu estou disponível!
+
+## Experiência Profissional
+
+### 👨🏻‍💻 Estagiário em Desenvolvimento - Esteio Engenharia
+
+🗓️ Maio/2025 – Presente  
+Auxiliar em desenvolvimento de sistemas internos utilizando de programação como PHP, manuseio de banco de dados e suporte técnico cotidiano necessário.
+
+### 👨🏻‍💻 Estagiário de TI - Setech Reparos
+
+🗓️ Fev/2025 - Mar/2025
+Suporte técnico cotidiano relacionado a TI, desenvolvimento de planilhas e de sistemas internos da empresa.
+
+### 👨🏻‍💻 Bolsista C3SL - UFPR
+
+🗓️ Maio/2024 - Dez/2024
+Trabalhava no desenvolvimento de projetos e afins da C3SL, mais especificamente no projeto interno de administração da própria bolsa e bolsistas.
+
+### 🪩 Recreador Infantil - Buffet Star Happy
+
+🗓️ Junho/2023 - Abr/2024
+Em busca de melhorar minha comunicação e minhas habilidades sociais, fui atrás de experiência em uma área onde necessitasse boa comunicação para forçar melhorar esta habilidade que eu tinha mais fraca, o que foi um sucesso e hoje tenho uma comunicação muito boa!
+
 ### Aqui estão alguns links meus!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolaslobo_/)
@@ -10,6 +34,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolaslobo9@gmail.com)
 
 ### Tecnologias do meu dia a dia!
+
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -23,6 +48,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Linguagens que eu sei usar!
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -33,8 +59,30 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
+## Projetos em destaque!
+
+- 📱 [Sistema de Caronas](https://github.com/nicolasalobo/caronas-app) – App para organização de caronas, atualmente em análise de qual a melhor maneira para se contruir e executar tudo que é necessário!
+- 📦 [CC50](https://github.com/nicolasalobo/pokedex-react) – Curso do CC50 e todos os seus projetos internos!
+- 👨🏻‍🎓 [Faculdade](https://github.com/nicolasalobo/Faculdade) - Meus projetos de faculdade, e tudo que eu fiz durante esse período que não achei que merecia um destaque próprio, mas certamente são de grande importância! (inclusive cursos externos feitos por mim)
+
+## Atualmente estudando
+
+- 🧠 Clean Code e boas práticas
+- PHP
+- CC50
+
+### 🎯 Objetivos para 2025:
+- ✅ Concluir o estágio com alto desempenho
+- 🚀 Lançar um projeto pessoal em produção
+- 📘 Estudar mais sobre arquitetura de software
 
 #### Aqui são só estatísticas chatas 🤦🏻‍♂️
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasalobo&show_icons=true&theme=dracula)
 
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasalobo&theme=dracula)
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nicolasalobo&show_icons=true&theme=dracula&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasalobo&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+> "Café, código e curiosidade: os 3 C’s do programador." ☕💻
+
+![Visitors](https://komarev.com/ghpvc/?username=nicolasalobo&color=blue)
