@@ -1,6 +1,6 @@
 # Olá, me chamo Nicolas Lobo 🙋🏻‍♂️
 
-## Sou estudante de Engenharia de Software na PUCPR, com grande entusiasmo por desenvolvimento web e tecnologias modernas. Atualmente sou estagiário na Esteio Engenharia, onde coloco em prática meus conhecimentos e busco constante evolução como desenvolvedor. Fique à vontade para observar meu perfil, e caso queira entrar em contato comigo eu estou disponível!
+## Sou estudante de Engenharia de Software na PUCPR, com grande entusiasmo por desenvolvimento web e tecnologias modernas. Atualmente sou estagiário na Esteio Engenharia, onde coloco em prática meus conhecimentos e busco constante evolução como desenvolvedor. Fique à vontade para observar meu perfil, e caso queira entrar em contato comigo, eu estou disponível!
 
 ## Experiência Profissional
 
@@ -36,45 +36,52 @@ Em busca de melhorar minha comunicação e minhas habilidades sociais, fui atrá
 ### Tecnologias do meu dia a dia!
 
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VisualCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### Linguagens que eu sei usar!
+### Tecnologias de trabalho!
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-000000?style=for-the-badge&logo=dbeaver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ## Projetos em destaque!
 
-- 📱 [Sistema de Caronas](https://github.com/nicolasalobo/caronas-app) – App para organização de caronas, atualmente em análise de qual a melhor maneira para se contruir e executar tudo que é necessário!
-- 📦 [CC50](https://github.com/nicolasalobo/pokedex-react) – Curso do CC50 e todos os seus projetos internos!
+- 📱 [NWZ SHOP](https://github.com/nicolasalobo/nwz-shop) – Sistema para gerenciamento de estoque, vendas e afins, criado para uso próprio!
 - 👨🏻‍🎓 [Faculdade](https://github.com/nicolasalobo/Faculdade) - Meus projetos de faculdade, e tudo que eu fiz durante esse período que não achei que merecia um destaque próprio, mas certamente são de grande importância! (inclusive cursos externos feitos por mim)
+- 🚀 **Em breve:** Novos projetos inovadores estão a caminho! Fique de olho para acompanhar minhas próximas criações e desafios que estou preparando para compartilhar com a comunidade.
 
 ## Atualmente estudando
 
-- 🧠 Clean Code e boas práticas
-- PHP
-- CC50
+- React
+- Node.js
+- Express.js
+- Java
 
 ### 🎯 Objetivos para 2025:
-- ✅ Concluir o estágio com alto desempenho
+- ✅ Permanecer no estágio com alto desempenho
 - 🚀 Lançar um projeto pessoal em produção
 - 📘 Estudar mais sobre arquitetura de software
+- Aprender sobre a estrutura de uma empresa para começar minha própria!
 
 #### Aqui são só estatísticas chatas 🤦🏻‍♂️
 
